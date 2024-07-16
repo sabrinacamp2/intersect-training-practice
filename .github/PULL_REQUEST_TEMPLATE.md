@@ -1,7 +1,7 @@
-# Description
+## Description
 
-Checklist
-- [ ]
-- [ ]
+### Checklist
+- [ ] One step
+- [ ] Two step
 
-<!-- Comment that you cant see>
+<!-- Comment that you cant see -->
