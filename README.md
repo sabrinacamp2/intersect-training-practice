@@ -1,3 +1,5 @@
+EDITING README to test merge!
+
 # INTERSECT Bootcamp - Practice Repository
 
 This repository is for use by participants in the INTERSECT Bootcamp series.
